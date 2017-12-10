@@ -1,4 +1,4 @@
-repository: awesome-it-ternopil/scalhive
+repository: ScalHive/ScalHive
 theme: jekyll-theme-cayman
 plugins:
 - jekyll-github-metadata

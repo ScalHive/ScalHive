@@ -2,7 +2,10 @@
 scalhive web application
 
 ## Literature
- - [Customizing GitHub Pages](https://help.github.com/categories/customizing-github-pages/)
+- [Customizing GitHub Pages](https://help.github.com/categories/customizing-github-pages/)
+ 
+## Interesting examples
+- [Paul Chiusano pesonal blog](https://github.com/pchiusano/pchiusano.github.io) 
 
 
 ## Docker manual
