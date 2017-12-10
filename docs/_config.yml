@@ -1,13 +1,11 @@
-name: ScalHive LLC
 url: https://scalhive.github.io/ScalHive/
-# baseurl: /agency-jekyll-theme/
-
+baseurl:
 
 
 # Site settings
 title: ScalHive - official site
-email: team@scalhive.com
-description: "ScalHive is a software development company based in Ukraine"
+email: team@scalhvive.com
+description: "ScalHive is a software development company based in Ukraine."
 
 
 # Team names, titles and social links
@@ -23,27 +21,27 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+#- name: Larry Parker
+#  pic: 2
+#  position: Lead Marketer
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: linkedin
+#      url: #
+#
+#- name: Diana Petersen
+#  pic: 3
+#  position: Lead Developer
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: google-plus
+#      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -53,7 +51,7 @@ social:
     url:
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
+  - title: bitbucket 
     url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/jekyll
@@ -64,24 +62,6 @@ address:
   - line: Beverly Hills, CA 90210
 
 # Build settings
-#permalink: pretty
-permalink: /:year-:month-:day/:title.html
-
 markdown: kramdown
-kramdown:
-  syntax_highlighter: rouge
-  input: GFM
-  fenced_code_blocks: true
-
-paginate: 5
-
-
-
-repository: ScalHive/ScalHive
-theme: jekyll-theme-cayman
-plugins:
-- jekyll-github-metadata
-- jekyll-mentions
-- jekyll-redirect-from
-- jekyll-sitemap
-- jemoji
+permalink: pretty
+incremental: true
