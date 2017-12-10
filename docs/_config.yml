@@ -1,0 +1,22 @@
+name: ScalHive LLC
+url: https://scalhive.github.io/ScalHive/
+
+permalink: /:year-:month-:day/:title.html
+markdown: kramdown
+kramdown:
+  syntax_highlighter: rouge
+  input: GFM
+  fenced_code_blocks: true
+
+paginate: 5
+
+
+
+repository: ScalHive/ScalHive
+theme: jekyll-theme-cayman
+plugins:
+- jekyll-github-metadata
+- jekyll-mentions
+- jekyll-redirect-from
+- jekyll-sitemap
+- jemoji
