@@ -5,6 +5,7 @@ scalhive web application
 - [Customizing GitHub Pages](https://help.github.com/categories/customizing-github-pages/)
  
 ## Interesting examples
+- [Agency Theme for Jekyll](https://github.com/y7kim/agency-jekyll-theme)
 - [Paul Chiusano pesonal blog](https://github.com/pchiusano/pchiusano.github.io) 
 
 
